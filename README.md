@@ -20,6 +20,7 @@ The following files are included:
 stackoverflow2018
 │
 ├── README.md - Brief description of the repository
+├── .gitignore - List of files to ignore for git
 └── joshtice_stackoverflow_analysis.ipynb - Full analysis 
 ```
 
